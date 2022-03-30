@@ -1,0 +1,25 @@
+.container{
+    background-color: #7fffd4;
+    width: 360px;
+    height: 800px;
+    border-radius: 5px;
+    position: relative;
+    top: 150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    font-size: 28px;
+}
+input{
+    width: 100px;
+    margin: auto;
+}
+button{
+    width: 100px;
+    margin: auto;
+    font-weight: 700;
+}
+/*
+*/
